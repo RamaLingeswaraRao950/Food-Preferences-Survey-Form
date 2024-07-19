@@ -52,4 +52,4 @@ You need a modern web browser to view the website.
 - Contains functions to handle form submission, change background color based on user input, and enable drawing on a canvas.
 - Adds event listeners to form elements for dynamic interactions.
 
-Project Link: 
+Project Link: https://ramalingeswararao950.github.io/Food-Preferences-Survey-Form/
