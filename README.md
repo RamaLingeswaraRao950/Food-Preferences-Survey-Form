@@ -1,9 +1,3 @@
-Here is the README file for your project:
-
----
-
-# Food Preferences Survey Form
-
 This project is a web-based survey form designed to collect information about users' food preferences. It includes an interactive form that allows users to submit their responses, and a confirmation message displayed upon submission.
 
 ## Project Structure
@@ -34,9 +28,7 @@ You need a modern web browser to view the website.
 ### Installation
 
 1. Clone the repository
-   ```sh
-   git clone https://github.com/yourusername/Food-Preferences-Survey-Form.git
-   ```
+   git clone 
 2. Open `index.html` in your web browser to view the application.
 
 ## Usage
@@ -57,9 +49,5 @@ You need a modern web browser to view the website.
 ### script.js
 - Contains functions to handle form submission, change background color based on user input, and enable drawing on a canvas.
 - Adds event listeners to form elements for dynamic interactions.
-
-## Contributing
-
-Con
 
 Project Link: 
