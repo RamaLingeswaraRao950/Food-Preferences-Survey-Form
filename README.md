@@ -28,8 +28,10 @@ You need a modern web browser to view the website.
 ### Installation
 
 1. Clone the repository
-   git clone 
-2. Open `index.html` in your web browser to view the application.
+
+    git clone https://github.com/RamaLingeswaraRao950/Food-Preferences-Survey-Form.git
+    
+3. Open `index.html` in your web browser to view the application.
 
 ## Usage
 
