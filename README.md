@@ -15,8 +15,8 @@ This project is a web-based survey form designed to collect information about us
 
 ## Technologies Used
 
-- **HTML**
-- **CSS**
+- **HTML5**
+- **CSS3**
 - **JavaScript**
 
 ## Getting Started
